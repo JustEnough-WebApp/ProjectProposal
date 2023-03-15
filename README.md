@@ -1,6 +1,6 @@
 # ProjectProposal
-dps-projectproposal.azurewebsites.net  
-  
+dps-projectproposal.azurewebsites.net
+    
 Authors: Alex, Julie, Le, Soren, Vy  
   
 A simple web page that outlines our Final Project Proposal  
