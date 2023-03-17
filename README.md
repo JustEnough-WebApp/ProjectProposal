@@ -1,5 +1,5 @@
 # ProjectProposal
-dps-projectproposal.azurewebsites.net
+https://dps-projectproposal.azurewebsites.net
     
 Authors: Alex, Julie, Le, Soren, Vy  
   
