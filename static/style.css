@@ -1,0 +1,23 @@
+h1 {color: white; font-size: 40pt; margin-left: 20px}
+h2 {text-align: center;}
+h6 {color: ghostwhite; margin-left: 80px;}
+
+
+.btn-primary {
+    background-color: #000a14cc;
+    border: #000a14cc;
+}
+
+.container-fluid {
+    text-align: center;
+}
+
+.container-fluid .card {
+    display: inline-block;
+    margin: 10px;
+}
+
+#Header {
+    background-image: url("./images/header-bg.webp");
+    height: 30vh;
+}
