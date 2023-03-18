@@ -6,6 +6,7 @@ h6 {color: ghostwhite; margin-left: 80px;}
 .btn-primary {
     background-color: #000a14cc;
     border: #000a14cc;
+    margin: 5px;
 }
 
 .container-fluid {
