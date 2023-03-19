@@ -32,6 +32,11 @@ li {
     margin-left: 20px;
 }
 
+p {
+    font-family: 'Source Sans Pro', sans-serif; 
+    margin-left: 50px;
+}
+
 
 .btn-primary {
     background-color: #000a14cc;
@@ -51,7 +56,6 @@ li {
 .row {
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
 }
 
 #Header {
