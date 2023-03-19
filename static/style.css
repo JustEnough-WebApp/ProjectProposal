@@ -1,5 +1,6 @@
 a {
     font-family: 'Source Sans Pro', sans-serif; 
+    font-weight: 400;
 }
 
 h1 {
@@ -19,22 +20,34 @@ h2 {
 
 h4 {
     font-family: 'Source Sans Pro', sans-serif; 
+    font-weight: 600;
 }
 
 h6 {
     color: ghostwhite; 
     font-family: 'Source Sans Pro', sans-serif; 
     font-size: 15pt;
+    font-weight: 400;
     margin-left: 80px;
 }
 
 li {
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 14pt;
+    font-weight: 400;
     margin-left: 20px;
 }
 
 p {
-    font-family: 'Source Sans Pro', sans-serif; 
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14pt;
+    font-weight: 400;
     margin-left: 50px;
+}
+
+strong {
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-weight: 700;    
 }
 
 
@@ -42,6 +55,11 @@ p {
     background-color: #000a14cc;
     border: #000a14cc;
     margin: 5px;
+}
+
+.btn-primary:hover {
+    background-color: #475d6b;
+    border-color: #33424d;
 }
 
 .container-fluid {
@@ -61,4 +79,12 @@ p {
 #Header {
     background-image: url("./images/header-bg.webp");
     height: 30vh;
+}
+
+#AppOverview p {
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 15pt;
+    font-weight: 400;
+    margin-left: 8vw;
+    margin-right: 8vw;
 }
